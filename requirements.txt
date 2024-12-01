@@ -1,0 +1,7 @@
+Flask
+Flask-JWT-Extended
+PyMongo
+redis
+Flask-SQLAlchemy
+flask_pymongo
+uvicorn
